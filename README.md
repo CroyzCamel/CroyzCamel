@@ -3,7 +3,6 @@ Oi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Opa, tudo bom?! Bem vindo ao meu perfil. Espero que você goste do que veem por ai. Da uma olhada com calma , não tem pressa. Da aquela passada no reposítorio e aproveita e manda um feedback do que tem que ser melhor :D !
 
-* ✉️  Para ter aquele contato mais profissional [carlylecamelo@gmail.com](mailto:carlylecamelo@gmail.com)
 * 🧠  O que eu sempre estou buscando aprender
   
   * Proficiência com a linguagem Kotlin.
